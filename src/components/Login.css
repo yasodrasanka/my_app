@@ -1,0 +1,8 @@
+body {
+    background-image: url("https://image.shutterstock.com/image-photo/cheerful-mature-women-enjoying-funny-260nw-640975693.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: "Numans", sans-serif;
+    opacity:0.5;
+}
