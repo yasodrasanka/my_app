@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/background.png");
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+    font-family: "Numans", sans-serif;
+    opacity:1;
+   }
